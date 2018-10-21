@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyPath</string>
+    <string name="google_maps_key">AIzaSyBTYpWKgx7wZf4p3kJoJN7LNLytN90jF3A</string>
+    <string name="add_point">Add point</string>
+    <string name="start_navigation">Start</string>
+
+</resources>
